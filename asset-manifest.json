@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tech/static/css/main.3811f9ca.css",
+    "main.js": "/tech/static/js/main.98fef2ac.js",
+    "static/media/expert.jpg": "/tech/static/media/expert.616204deca40e1eb0e17.jpg",
+    "static/media/hacking.png": "/tech/static/media/hacking.ece4000f25a3059b6e3a.png",
+    "static/media/web_dev.png": "/tech/static/media/web_dev.18e4e29eb6e4012b5fe5.png",
+    "static/media/logo.png": "/tech/static/media/logo.8f95a9e88b7bed225471.png",
+    "static/media/data_science.png": "/tech/static/media/data_science.704fec9786893327a19b.png",
+    "index.html": "/tech/index.html",
+    "main.3811f9ca.css.map": "/tech/static/css/main.3811f9ca.css.map",
+    "main.98fef2ac.js.map": "/tech/static/js/main.98fef2ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3811f9ca.css",
+    "static/js/main.98fef2ac.js"
+  ]
+}
